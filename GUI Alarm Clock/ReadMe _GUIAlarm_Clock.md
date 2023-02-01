@@ -14,9 +14,9 @@ It is a beginner's project with few explanations. Go to [DataFlair](https://data
     
    Check if a certain library is already installed in your machine:
   
-    ```
+   ```
     pip3 show #module_name
-    ```
+   ```
     
   </p>
   
