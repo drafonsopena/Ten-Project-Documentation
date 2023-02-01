@@ -14,7 +14,7 @@ The seventh project I developed is a Encode and Decode Message that can encode a
 
 > **Libraries and Prerequisites:** For the Encode and Decode Message program we used TKinter, and base64 a library used to encode data. This project was complicated to make because currently it does not decode the messages after encoding it nor it recognises the passkey (it basically does nothing if I may say), that aside I still say that it is useful.
 
-<details><summary>Project instruntions</summary>
+<details><summary>Project instructions</summary>
 
 <p>
   ```
