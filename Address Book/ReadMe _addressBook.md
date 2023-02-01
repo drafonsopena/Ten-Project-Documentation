@@ -40,8 +40,7 @@ The eighth project I developed is an Address Book that allows the user to add, e
     +------------------------------------
   """
 ```  
-    
-</p>
+  </p>
   
 </details>
 
@@ -49,40 +48,21 @@ The eighth project I developed is an Address Book that allows the user to add, e
 > **Future Changes:** This program is an integration of the chat app and the improvements we’ll make start from the database, layout and allow email address as well.
 
 ---
-  
-  ## NOTE: The list is in alphabetic order.
-  
-  
-<details><summary>Pictures</summary>
-    
-  <p>
-    
-    **Picture 1**: Address Book main window
-    
-    
-    ![addressBookOne](https://user-images.githubusercontent.com/72225601/216113576-ebbd80a5-af71-4861-81f4-00a02fa57af2.png)
-    
 
-    **Picture 2:** Address Book adding new contact
-    
-    
-    ![addressBookTwo](https://user-images.githubusercontent.com/72225601/216113735-6eb43186-e994-4578-8cbe-30cc91e5200f.png)
-    
 
-    **Picture 3:** Address Book deleting a contact
-    
-    
-    ![addressBookThree](https://user-images.githubusercontent.com/72225601/216113900-bfd9c61a-c800-41ac-90db-1f2556bfba63.png)
-    
-    
-  </p>
-    
+<details>
+  
+  **Picture 1: Address Book contact list display**
+  
+  ![addressBookOne](https://user-images.githubusercontent.com/72225601/216124927-fadbf336-f57b-4db2-b35a-de23177d767d.png)
+
+**Picture 2: Address Book adding “Uncle Scrooge” to contact list**
+
+![addressBookTwo](https://user-images.githubusercontent.com/72225601/216125207-fb76ed5e-ed98-475f-8683-d8fa7a0af128.png)
+
+
+**Picture 3: Address Book deleting contacts from the list.**
+![addressBookThree](https://user-images.githubusercontent.com/72225601/216125420-16ccbef1-1b83-49b2-8dab-a6e9ce89f7ea.png)
+  
 </details>
-
-
-
-
-
-
-
 
