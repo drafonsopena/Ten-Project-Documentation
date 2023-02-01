@@ -49,10 +49,15 @@ The second project I developed is a Password Generator that can create a random 
 ---
 
 > **Future Changes:** In a later version I am thinking to integrate it with the Encode and Decode Message, as in we encode a message but we can only decode/read it if we have the right password. Maybe a bot that helps you encode or decode (translate) morse messages or binary with a password generator. Any other idea on how to use it for other things? If so, please share.
+
+
+**Picture 1: Password Generator main window**
   
+  ![passwordGeneratorOne](https://user-images.githubusercontent.com/72225601/216067868-a31125c6-0219-4a28-b0ea-924df415a1d3.png)
+
+**Picture 2: Password Generator output window**
   
-  
-  
-  
+  ![passwordGeneratorTwo](https://user-images.githubusercontent.com/72225601/216068282-9a9cd6ed-7770-421d-9cbb-2653dfe7778b.png)
+
   
   
