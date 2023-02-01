@@ -12,7 +12,7 @@ This document is the main Read Me () file for 10 projects named respectively hav
 ![sourceCode_ DataFlair](https://user-images.githubusercontent.com/72225601/216020662-e1d81073-28c4-4cb3-a2cb-489c4f9229a6.png)
 ---
 This projects were developed using Python 3.9 as the programming language, PyCharm 2022.3.2 (Community Edition) as the main IDE and Thonny as a code tester, because it is simple to use. The version number of each project means: first digit is for the years of existence; second digit is used if any permanent update was made; the third digit is used as the project ID. Please take note that this is not a tutorial.
-Developing them felt like “my back is killing me...aahhh...” but is was worth it, because I got to do them, now I can share my mistakes, future ideas for them and be proud for aiming at 10, and get the 10 I aimed at.
+Developing them felt like *"my back is killing me...aahhh..."* but is was worth it, because I got to do them, now I can share my mistakes, future ideas for them and be proud for aiming at 10, and get the 10 I aimed at.
 
 For no good reason what does Python mean to you?
 For me it means that I can do silly things with it, like solving problems and making cool games or write something that does not make sense but runs without an error. I confused about the spaces (indentation), when to use concatenation and a comma, python is fun.
