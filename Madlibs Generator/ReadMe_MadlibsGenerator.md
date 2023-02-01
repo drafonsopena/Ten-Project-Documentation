@@ -19,8 +19,8 @@ The third project I developed is a Mad Libs Generator that can take user input a
   
   <p>
     
-    ```
-    """
+```
+   """
     GIT: @drafonsopena
     + The objective of this project is to create a Mad Libs Generator using Python.
     | Group:
@@ -36,14 +36,25 @@ The third project I developed is a Mad Libs Generator that can take user input a
     | All necessary libraries for the Mad Libs Generator:
     | From tkinter import *
     +------------------------------------
-    """
-    ```
+   """
+```
   </p>
   
 </details>
 
 > **Future Changes:** In a later version I am thinking to add new stories but this time extracted from a PDF file. Maybe make a whole story book based on the Madlibs generated from the app.
 
+**Picture 1: Initial window**
+
+![madlibsOne](https://user-images.githubusercontent.com/72225601/216073708-c6d1765e-441b-48d9-a5b4-131905e6e8ad.png)
+
+**Picture 2: The story chosen was Apples and Apples**
+
+![madlibsTwo](https://user-images.githubusercontent.com/72225601/216074109-7474ac1c-2746-4f6a-a8dc-7fe30cdb2f82.png)
+
+**Picture 3: Output of the strory**
+
+![madlibsThree](https://user-images.githubusercontent.com/72225601/216074384-17ab27e3-30ce-4d11-8d34-05b7e2325a09.png)
 
 
 
