@@ -8,20 +8,20 @@ It is a beginner's project with few explanations. Go to [DataFlair](https://data
 
 # Simple Calculator -(22-01-2023)
 
-The seventh project I developed is a Encode and Decode Message that can encode any English text to random characters, I thought it would be easy but it was not, because the program is only encoding and not decoding. It is on version 0.1.07 with the size of 4.23 Kb.
+The ninth project I developed is a Simple Calculator that can perform integer and float calculations. It is on version 0.1.09 with the size of 5.29 Kb.
 
-> **Utility or why Develop:** This program can be used to encode and decode messages using base64 data encoding. The user has to enter a message and choose between encode (e) and decode (d); the same passkey must be used in the encoding and decoding of the message
+> **Utility or why Develop:** This program can be used to perform mathematical calculations and it outputs the the result of that same calculation. Math can be challenging at times so we need calculators to helps get the answer of difficult equations.
 
-> **Libraries and Prerequisites:** For the Encode and Decode Message program we used TKinter, and base64 a library used to encode data. This project was complicated to make because currently it does not decode the messages after encoding it nor it recognises the passkey *(it basically does nothing if I may say)*, that aside I still say that it is useful.
+> **Libraries and Prerequisites:** For the Simple Calculator program we used TKinter, parser and factorial from the math module. This project is as the name suggests ‘simple’ but we dont want simple do we?
 
 <details><summary>Project instructions</summary>
 
   <p>
     
   ```
-    """
+   """
     GIT: @drafonsopena
-    + The objective is to create a Text-to-Speech Converter using Python.
+    + The objective is to create a Simple Calculator using Python.
     | Group:
     +-+---------------- 1 ----------------
     | Prerequisites:
@@ -34,10 +34,10 @@ The seventh project I developed is a Encode and Decode Message that can encode a
     | Create display window
     | Create labels, functions and buttons
     +---------------- 3 ----------------
-    | All necessary libraries for the Text-to-Speech Converter:
-    | import tkinter as tk
-    | from gtts import gTTS
-    | from playsound import playsound
+    | All necessary libraries for the Simple Calculator:
+    | from tkinter import *
+    | import parser
+    | from math import factorial
     +------------------------------------
   """
 ```
@@ -46,7 +46,7 @@ The seventh project I developed is a Encode and Decode Message that can encode a
 
 </details>
 
-> **Future Changes:** This program is mainly being developed to create a chat app and change the encoding level of the messages later on.
+> **Future Changes:** Just joking of course we want simple for the end user. This program is mainly being developed to create a Currency Converter Calculator and separately have a calculator that can allow formulas from Physics to calculate speed, force, mass, etc.
 
 ---
 
