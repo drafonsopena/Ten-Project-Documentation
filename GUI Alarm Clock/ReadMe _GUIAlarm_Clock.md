@@ -67,7 +67,7 @@ TKinter, datatime, time and windsound.
  ---
  
  
- <details> <summary> Pictures</summary>
+ <details> <summary>Pictures</summary>
   
   **Picture 1: GUI Alarm Clock main window**
   
