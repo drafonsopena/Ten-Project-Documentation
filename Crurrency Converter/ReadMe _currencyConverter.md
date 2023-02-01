@@ -17,6 +17,7 @@ The fifth project I developed is a Currency Converter that can provide the value
 <details><summary>Project instrucrions</summary>
 
 <p>
+
 ```
     """
     GIT: @drafonsopena
@@ -49,23 +50,27 @@ The fifth project I developed is a Currency Converter that can provide the value
 
 > **Future Changes:** In a later version I am thinking to add cripto exchange-rate or integrate a calculator to it. Like this we can exchange the currency and make our diner budget within one application.
 
+<details> <summary>Pictures</summary>
+    
 **Picture 1: Currency Converter main window**
 
 
+![currencyConverterOne](https://user-images.githubusercontent.com/72225601/216088392-93e55312-98fa-40e5-98eb-0cadddd0c624.png)
 
 
+**Picture 2: Currency Converter choosing currency**
 
 
+![currencyConverterTwo](https://user-images.githubusercontent.com/72225601/216088574-b9d74d8d-36f5-48a9-845e-6522a0508302.png)
 
 
+**Picture 3: Currency Converter output**
 
 
+![currencyConverterThree](https://user-images.githubusercontent.com/72225601/216088691-d5475bcb-8cbe-48db-afd2-6a75aea0fd09.png)
 
 
-
-
-
-
+</details>
 
 
 
