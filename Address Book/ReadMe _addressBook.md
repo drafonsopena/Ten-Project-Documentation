@@ -50,7 +50,7 @@ The eighth project I developed is an Address Book that allows the user to add, e
 ---
 
 
-<details>
+<details> <summary>Pictures</summary>
   
   **Picture 1: Address Book contact list display**
   
@@ -62,6 +62,7 @@ The eighth project I developed is an Address Book that allows the user to add, e
 
 
 **Picture 3: Address Book deleting contacts from the list.**
+  
 ![addressBookThree](https://user-images.githubusercontent.com/72225601/216125420-16ccbef1-1b83-49b2-8dab-a6e9ce89f7ea.png)
   
 </details>
