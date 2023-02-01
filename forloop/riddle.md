@@ -1,6 +1,6 @@
 I made a  forloop script that needs fixing, it’s silly but please solve it if you can or if you have the time to waste, you just need to remove/include a break, a “\n” or a  \n.
 
-Please answer riddle.md if you want. Else [click here](https://duckduckgo.com).
+Please answer riddle.md if you want. Else [click here](https://github.com/drafonsopena/Ten-Project-Documentation).
 
 # No \n between us:
 > Have a break before you \n , to run you need an IDE and a forloop but  you  also need to break the number of  “\n’s” present in the sentence. Please dont break your system. If your computer crashes blame it on the break not found and not on the “\n” taken from the sentence.
