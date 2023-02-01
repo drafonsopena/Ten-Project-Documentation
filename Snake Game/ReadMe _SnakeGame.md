@@ -10,11 +10,11 @@ It is a beginner's project with few explanations. Go to [DataFlair](https://data
 
 # Snake Game -(24-01-2023)
 
-The seventh project I developed is a Encode and Decode Message that can encode any English text to random characters, I thought it would be easy but it was not, because the program is only encoding and not decoding. It is on version 0.1.07 with the size of 4.23 Kb.
+The tenth project I developed is a Snake Game. It is on version 0.1.10 with the size of 4.68 Kb.
 
-> **Utility or why Develop:** This program can be used to encode and decode messages using base64 data encoding. The user has to enter a message and choose between encode (e) and decode (d); the same passkey must be used in the encoding and decoding of the message
+> **Utility or why Develop:** This program helped me to unwind after so many days of typing. The user can play and reminisce about the [Good Ol’Days](https://open.spotify.com/track/20ZP3Om9DvDazXrNUC7WM2?si=6db4105f62e4456a).
 
-> **Libraries and Prerequisites:** For the Encode and Decode Message program we used TKinter, and base64 a library used to encode data. This project was complicated to make because currently it does not decode the messages after encoding it nor it recognises the passkey *(it basically does nothing if I may say)*, that aside I still say that it is useful.
+> **Libraries and Prerequisites:** For the Snake Game we used Turtle, random and time. This project was fun to do but I forgot to add *“screen.update()”* and spent two days asking myself *“where is the snake and the fruit?”* but overall it was easy and any one can do it.
 
 <details><summary>Project instruction</summary>
 
@@ -23,7 +23,7 @@ The seventh project I developed is a Encode and Decode Message that can encode a
   ```    
    """
     GIT: @drafonsopena
-    + The objective is to create a Text-to-Speech Converter using Python.
+    + The objective is to create a Snake Game using Python.
     | Group:
     +-+---------------- 1 ----------------
     | Prerequisites:
@@ -34,14 +34,14 @@ The seventh project I developed is a Encode and Decode Message that can encode a
     | Project File Structure:
     | Import all the needed libraries/modules
     | Create display window
-    | Create labels, functions and buttons
+    | Create snake and food, functions and buttons
     +---------------- 3 ----------------
-    | All necessary libraries for the Text-to-Speech Converter:
-    | import tkinter as tk
-    | from gtts import gTTS
-    | from playsound import playsound
+    | All necessary libraries for the Snake Game:
+    | import turtle
+    | import random
+    | import time
     +------------------------------------
-   """
+  """
  ```
     
   </p>
@@ -49,7 +49,7 @@ The seventh project I developed is a Encode and Decode Message that can encode a
 
 </details>
 
-> **Future Changes:** This program is mainly being developed to create a chat app and change the encoding level of the messages later on.
+> **Future Changes:** This program was for fun, cant think of any major changes to this classic. We might only need to change the appearance of the snake and of the fruit, add some extra obstacles and then we’ll see.
 
 
 <details><summary>Pictures</summary>
