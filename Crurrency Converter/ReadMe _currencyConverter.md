@@ -50,6 +50,8 @@ The fifth project I developed is a Currency Converter that can provide the value
 
 > **Future Changes:** In a later version I am thinking to add cripto exchange-rate or integrate a calculator to it. Like this we can exchange the currency and make our diner budget within one application.
 
+---
+
 <details> <summary>Pictures</summary>
     
 **Picture 1: Currency Converter main window**
