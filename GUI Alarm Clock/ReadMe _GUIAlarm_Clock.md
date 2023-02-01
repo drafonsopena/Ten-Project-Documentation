@@ -1,4 +1,4 @@
-This GUI Alarm Clock was completed 29-12-22 By @drafonsopena.
+# This GUI Alarm Clock was completed 29-12-22 By @drafonsopena.
 Using python3.9, Pycharm, Thonny, DataFlair.
 
 If you are willing to edit it or make atomic changes please:
@@ -27,7 +27,7 @@ Have fun and Happy coding.
  
 ---
 
-# **GUI Alarm Clock v 0.1.0** -(29-12-2022)
+## **GUI Alarm Clock v 0.1.0** -(29-12-2022)
 The first project I developed is a GUI Alarm clock that can take user input and rings at the desired time but I failed to play put sound and make it ring, we have all necessary features of an alarm clock but we dont have sound. It is on version 0.1.01 with the size of 3.07 Kb.
 Utility or why Develop: This project was developed to motivate me to be punctual with my study time, it does not play sound but it sure introduced me to a place where possibilities appear all the time. 
 
