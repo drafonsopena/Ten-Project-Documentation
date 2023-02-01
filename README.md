@@ -1,4 +1,4 @@
-# Ten-Project-Documentation
+# Ten-Project-Documentation **100%  Python**
 *“We connect with code and learn from it and change with it. I code for a chance to turn into a change.” -Dr. Afonso Pena (AVVA4LLLL)*
 
 This document is the main Read Me () file for 10 projects named respectively have their own ReadMe_ in their folder: GUI Alarm Clock, Password Generator, Mad-libs Generator, Dice Rolling Generator, Currency Converter, Encode and Decode Message, Address Book, A Simple Calculator, Snake Game. The projects were taken from Data Flair, Python Projects Folder, click the plus sign, then pick and choose what you want to build and learn from.
@@ -14,6 +14,11 @@ This document is the main Read Me () file for 10 projects named respectively hav
 **Picture 1.2 - Project Varieties**
 
 ![sourceCode_ DataFlair](https://user-images.githubusercontent.com/72225601/216020662-e1d81073-28c4-4cb3-a2cb-489c4f9229a6.png)
+
+**Picture 3: List of Chosen Projects**
+
+![layout](https://user-images.githubusercontent.com/72225601/216143045-7321c09f-8b17-48ce-8c3e-348d701ce815.png)
+
 
 </details>
 
