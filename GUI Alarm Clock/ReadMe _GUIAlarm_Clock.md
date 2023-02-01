@@ -18,7 +18,7 @@ Have fun and Happy coding.
    Check if a certain library is already installed in your machine:
   
     ```
-    Eg: pip3 show tk
+    pip3 show #module_name
     ```
     
   </p>
@@ -68,5 +68,15 @@ TKinter, datatime, time and windsound.
   ---
  
 > **Future Changes:** In a later version we will have sound, pop-up reminders, probably a different front-end and back-end too.
- 
+
+Picture 1: The main window:
+
+ ![alarmClockGUI](https://user-images.githubusercontent.com/72225601/216062250-ddf17c4e-bcce-4caf-83de-6f68e5761ae8.png)
+
+Picture 2: The output window:
+
+
+![outputAlarmClock](https://user-images.githubusercontent.com/72225601/216063122-41718189-c5b4-4b47-95f9-de1517db6f0d.png)
+
+
     
