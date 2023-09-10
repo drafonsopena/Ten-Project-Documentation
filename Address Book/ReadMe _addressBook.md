@@ -45,7 +45,7 @@ The eighth project I developed is an Address Book that allows the user to add, e
 </details>
 
 
-> **Future Changes:** This program is an integration of the chat app and the improvements we’ll make start from the database, layout and allow email address as well.
+> **Future Changes:** This program is an integration of the chat app and the improvements we’ll make start from: adding a database, improve the layout and add a section for emails.
 
 ---
 
